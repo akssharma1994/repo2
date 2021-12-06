@@ -1,1 +1,1 @@
-awk '{print $2,  $4}'
+awk '{print $2, $NF}' $1
