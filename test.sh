@@ -1,1 +1,1 @@
-awk '{print $2, $NF}' $1
+sum=$(($num1 + $num2))
